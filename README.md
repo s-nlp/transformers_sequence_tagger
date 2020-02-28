@@ -142,3 +142,6 @@ pip install git+https://github.com/IINemo/bert_sequence_tagger.git
 # TODO
 - Remove dependency from tensorflow
 - Make ModelTrainer more generalizable
+
+
+Forked from https://github.com/IINemo/bert_sequence_tagger.git
